@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soheil-vanaee&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="soheil-vanaee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soheil-vanaee&show_icons=true&theme=highcontrast&locale=en" alt="soheil-vanaee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soheil-vanaee&show_icons=true&theme=cobalt&locale=en" alt="soheil-vanaee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soheil-vanaee&theme=highcontrast" alt="soheil-vanaee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soheil-vanaee&theme=cobalt" alt="soheil-vanaee" /></p>
 
