@@ -1,6 +1,6 @@
 
 
-<img align = "center" alt="django" width="100%" src"https://kigsmtua.github.io/assets/img/django.png">
+<img align = "center" alt="django" width="100%" src="https://kigsmtua.github.io/assets/img/django.png">
 <h1 align="center">Hi 👋, I'm soheil vanaee</h1>
 <h3 align="center">python , django developer</h3>
 
