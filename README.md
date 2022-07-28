@@ -20,6 +20,9 @@
 
 - 📄 Know about my experiences [soheil-vanaee.ir](soheil-vanaee.ir)
 
+<img align = "center" alt="django" width="100%" src="https://icts.io/wp-content/uploads/2020/04/django_final.png">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soheilvanaee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soheilvanaee" height="30" width="40" /></a>
