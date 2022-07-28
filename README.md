@@ -32,5 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soheil-vanaee&show_icons=true&theme=cobalt&locale=en" alt="soheil-vanaee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soheil-vanaee&theme=dark" alt="soheil-vanaee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soheil-vanaee&theme=default" alt="soheil-vanaee" /></p>
 
